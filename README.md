@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Manuel</h1>
-    <h3 align="center">Soy un desarrollador android y web. Me gusta mucho todas las posibilidades que tienes en la programación web, pero sin dejar de lado la programación movil
-        en android nativo.
+    <h3 align="center">Desarrollador Android y web. Me puedo defender de tanto en fronted y backend, pero si me tuviera que decantar por alguno de los dos, sin duda seria el backend. También estoy comprometido con la         excelencia y la innovación tecnológica.
     </h3>
 </div>
 
