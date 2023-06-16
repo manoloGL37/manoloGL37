@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Manuel</h1>
-    <h3 align="center">Desarrollador Android y web. Me puedo defender de tanto en fronted y backend, pero si me tuviera que decantar por alguno de los dos, sin duda seria el backend. También estoy comprometido con la         excelencia y la innovación tecnológica.
+    <h3 align="center">Desarrollador Android y web. Me puedo defender tanto en fronted, como en backend, pero si me tuviera que decantar por alguno de los dos, sin duda seria el backend. También estoy comprometido con la         excelencia y la innovación tecnológica.
     </h3>
 </div>
 
