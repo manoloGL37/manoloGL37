@@ -34,7 +34,7 @@
 
 <div align="left">
     <h3>📞 Contacto</h3>
-    <a title="LinkedIn" href="https://www.linkedin.com/in/manuelgongora/">
+    <a title="LinkedIn" href="https://www.linkedin.com/in/manuelgongora/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">
     </a>
 </div>
