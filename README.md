@@ -8,7 +8,7 @@
 
 💻 Sobre Mi:
 
- - 📱 Programos aplicaiones moviles con Java y me apasiona crear soluciones innovadoras que brinden una excelente experiencia de usuario.
+ - 📱 Programo aplicaiones moviles con Java y me apasiona crear soluciones innovadoras que brinden una excelente experiencia de usuario.
 
 - 🌱 Actualmente, estoy enfocado en ampliar mis habilidades en el desarrollo web y estoy aprendiendo Angular y Node.js
 
