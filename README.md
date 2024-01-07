@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Manuel</h1>
-    <h3 align="center">Desarrollador Android y web. Domino tanto en fronted, como backend, pero si me tuviera que decantar por alguno de los dos, sin duda seria el backend. También me esfuerzo con la excelencia y la innovación tecnológica.
+    <h3 align="center">Desarrollador Android y web. Domino tanto fronted, como backend, pero si me tuviera que decantar por alguno de los dos, sin duda seria el backend. También me esfuerzo con la excelencia y la innovación tecnológica.
     </h3>
 </div>
 
