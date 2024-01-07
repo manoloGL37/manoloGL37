@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola 👋, Soy Manuel</h1>
-    <h3 align="center">Desarrollador Android y web. Me puedo defender tanto en fronted, como en backend, pero si me tuviera que decantar por alguno de los dos, sin duda seria el backend. También estoy comprometido con la         excelencia y la innovación tecnológica.
+    <h3 align="center">Desarrollador Android y web. Domino tanto en fronted, como backend, pero si me tuviera que decantar por alguno de los dos, sin duda seria el backend. También me esfuerzo con la excelencia y la innovación tecnológica.
     </h3>
 </div>
 
@@ -8,7 +8,7 @@
 
 💻 Sobre Mi:
 
- - 📱 Programo aplicaiones moviles con Java y me apasiona crear soluciones innovadoras que brinden una excelente experiencia de usuario.
+ - 📱 Programo aplicaciones móviles con Java y me apasiona crear soluciones innovadoras que brinden una excelente experiencia de usuario.
 
 - 🌱 Actualmente, estoy enfocado en ampliar mis habilidades en el desarrollo web y estoy aprendiendo Angular y Node.js
 
